@@ -1,0 +1,11 @@
+D:\simplilearn\phase3\day-1\Assignment-1\Assignment-1\bin\Debug\net6.0\Assignment-1.deps.json
+D:\simplilearn\phase3\day-1\Assignment-1\Assignment-1\bin\Debug\net6.0\Assignment-1.dll
+D:\simplilearn\phase3\day-1\Assignment-1\Assignment-1\bin\Debug\net6.0\Assignment-1.pdb
+D:\simplilearn\phase3\day-1\Assignment-1\Assignment-1\obj\Debug\net6.0\Assignment-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\simplilearn\phase3\day-1\Assignment-1\Assignment-1\obj\Debug\net6.0\Assignment-1.AssemblyInfoInputs.cache
+D:\simplilearn\phase3\day-1\Assignment-1\Assignment-1\obj\Debug\net6.0\Assignment-1.AssemblyInfo.cs
+D:\simplilearn\phase3\day-1\Assignment-1\Assignment-1\obj\Debug\net6.0\Assignment-1.csproj.CoreCompileInputs.cache
+D:\simplilearn\phase3\day-1\Assignment-1\Assignment-1\obj\Debug\net6.0\Assignment-1.dll
+D:\simplilearn\phase3\day-1\Assignment-1\Assignment-1\obj\Debug\net6.0\refint\Assignment-1.dll
+D:\simplilearn\phase3\day-1\Assignment-1\Assignment-1\obj\Debug\net6.0\Assignment-1.pdb
+D:\simplilearn\phase3\day-1\Assignment-1\Assignment-1\obj\Debug\net6.0\ref\Assignment-1.dll
